@@ -4,7 +4,7 @@
 
 Homework 3 consists of 7 zylab assignments from chapter 10 and 11 that cover classes, lists, and dictionaries. 
 
-main-1 (10.11) requires the implementation of classes and constructors to develop a program for calculating the nutritional information of various food items the user provides as inputs. Fat, carbohydrate, and protein values are provided by the user, while user calculates the calories in the given number of servings and displays the information in the program. That's done by usinng FoodItem as a class and adding a constructor to initialize the food items. 
+main-1 (10.11) requires the implementation of classes and constructors to develop a program for calculating the nutritional information of various food items the user provides as inputs. Fat, carbohydrate, and protein values are provided by the user and the program calculates the calories in the given number of servings and displays the information in the program. That's done by usinng FoodItem as a class and adding a constructor to initialize the food items. 
 
 main-2 (10.15) is also a class based program that is developed to calculate and display the losing/winning averages of teams provided as inputs. This assignment consists of Team class implementation, a constructor, and a class method for the calculations.
 
