@@ -1,4 +1,6 @@
 # Homework3
+#Name: Nafisa Chowdhury
+#PSID: 1591144
 
 Homework 3 consists of 7 zylab assignments from chapter 10 and 11 that cover classes, lists, and dictionaries. 
 
