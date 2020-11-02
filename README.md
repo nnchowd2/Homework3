@@ -14,6 +14,6 @@ main-4 (10.19) is part 2 and the extension of part 1 that turns this program int
 
 main-5 (11.18) is a simple program that takes integers as input and returns a sorted and filtered output. Negative integers are filtered out of the list, so the list only displays non-negative values. The program uses a for loop and sorted() function to output the result.
 
-main-6 (11.22) is also another very simple program that returns the frequency of words in a string. The program counts the number of times each word appears in the list input and outputs that result. We implement for loop and count method to calculate the frequency.
+main-6 (11.22) is also another very simple program that returns the frequency of words in a list. The program counts the number of times each word appears in the list input and outputs that result. We implement for loop and count method to calculate the frequency.
 
 main-7 (11.27) is a program with the implementation of dictionaries that stores roster and rating information for a soccer team. It takes 5 pairs of inputs for the players' jersey numbers and their ratings and stores them in a dictionary. The dictionary's elements are then displayed in ascending order. The program also develops a bunch of menu options to add new players, remove players, change player ratings, display players above a certain rating, etc. All the outputs are displayed in a sorted ascending order. The menu is built with a while loop and nested if statements, similar to that of main-4.
